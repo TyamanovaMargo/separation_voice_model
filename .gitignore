@@ -1,3 +1,21 @@
+# VS Code settings
 .vscode/
-*.wav
 
+# Audio files
+*.wav
+output/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
